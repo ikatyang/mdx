@@ -125,3 +125,4 @@ exports.sync = sync
 exports.createMdxAstCompiler = createMdxAstCompiler
 exports.default = compile
 exports.esSyntax = esSyntax
+exports.jsxSyntax = toMDXAST
