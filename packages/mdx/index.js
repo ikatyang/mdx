@@ -124,3 +124,4 @@ exports = compile
 exports.sync = sync
 exports.createMdxAstCompiler = createMdxAstCompiler
 exports.default = compile
+exports.esSyntax = esSyntax
